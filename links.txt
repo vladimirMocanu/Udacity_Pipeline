@@ -1,0 +1,14 @@
+[Github]
+https://github.com/vladimirMocanu/Udacity_Pipeline.git
+
+[Url02]
+http://udapeople-frontend-1229acd.s3-website-us-west-2.amazonaws.com/index.html#/employees
+
+[Url03]
+http://d11i822jdzqj4q.cloudfront.net/#/employees
+
+[URL04]
+http://ec2-52-13-27-204.us-west-2.compute.amazonaws.com:3030/api/status
+
+[Prometheus]
+http://ec2-34-220-90-88.us-west-2.compute.amazonaws.com:9090/targets
