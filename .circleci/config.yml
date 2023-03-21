@@ -492,6 +492,7 @@ jobs:
 workflows:
   default:
     jobs:
+        - build-macOS
       # - build-frontend
       # - build-backend
       # - test-frontend:
@@ -521,4 +522,4 @@ workflows:
       #     requires: [smoke-test]
       # - cleanup:
       #     requires: [cloudfront-update]
-        - build-macOS
+        
